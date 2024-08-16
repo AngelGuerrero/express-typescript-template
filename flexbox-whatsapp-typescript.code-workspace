@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Azeret Mono",
+		"cSpell.words": [
+			"Azeret"
+		],
+	}
+}
